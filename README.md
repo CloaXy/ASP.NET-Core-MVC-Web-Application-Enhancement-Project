@@ -40,4 +40,5 @@ This ASP.NET Core MVC Web Application offers a user-friendly interface for manag
 Thank you for your interest in the ASP.NET Core MVC Web Application Enhancement Project! If you have any questions or require further assistance, please don't hesitate to reach out.
 
 Author: Llayton Titus
+
 Contact: llaytontitus@gmail.com
